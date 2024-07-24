@@ -1,0 +1,49 @@
+ *{
+    margin:0 auto;
+    padding:0;
+    box-sizing: border-box; 
+} 
+
+.logo{
+    width: 200px;
+    height: 80px;
+    margin-left: 60px;
+    
+    
+    
+}
+.logo:hover{
+    color: rgb(25, 25, 206);
+}
+.under_text{
+    color: azure;
+}
+/* ------------------------end nav*/
+
+
+.header{
+    color: yellowgreen;
+}
+.account{
+    height: 300px;
+}
+.image {
+    max-width: 100%;
+    height: auto;
+}
+.but{
+    margin-left: 40px;
+}
+.account{
+    width: 300px;
+}
+.login{
+    width: 1200px;
+    height: 500px;
+}
+.about{
+    width: 400px!important;
+}
+
+
+
